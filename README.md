@@ -1,6 +1,4 @@
-## Oppgave 1 - Intro-Webapplikasjoner
+## ITF31619 21H Webapplikasjoner
 
-[Oppgave 1.1](oppgave-1.md)
-[Oppgave 1.2](oppgave2.svg)
-[Oppgave 1.3](wireframes)
-
+[Oppgave 1 - Intro-Webapplikasjoner](Intro-Webapplikasjoner)  
+[Oppgave 3 - Intro-Javascript](Intro-Javascript)  
