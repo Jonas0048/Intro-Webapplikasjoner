@@ -1,0 +1,14 @@
+{
+  "name": "moderne-js-oblig-forked",
+  "version": "1.0.0",
+  "description": "Oppgave 4 - Moderne Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "dependencies": {
+    "expect": "27.2.0",
+    "nodemon": "2.0.12"
+  },
+  "keywords": []
+}
