@@ -4,3 +4,4 @@
 [Oppgave 3 - Intro-Javascript](Intro-Javascript)  
 [Oppgave 4 - Moderne-Javascript](Moderne-Javascript)  
 [Oppgave 5 - Intro-React](Intro-React)  
+[Oppgave 6 - React-Todos](React-Todos)  
