@@ -5,3 +5,4 @@
 [Oppgave 4 - Moderne-Javascript](Moderne-Javascript)  
 [Oppgave 5 - Intro-React](Intro-React)  
 [Oppgave 6 - React-Todos](React-Todos)  
+[Oppgave 8 - Testing-Komponent](Testing-React-Todos)  
