@@ -6,3 +6,4 @@
 [Oppgave 5 - Intro-React](Intro-React)  
 [Oppgave 6 - React-Todos](React-Todos)  
 [Oppgave 8 - Testing-Komponent](Testing-React-Todos)  
+[Oppgave 9 - Intro-Next](Intro-Nextjs-API)  
