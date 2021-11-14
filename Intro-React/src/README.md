@@ -1,5 +1,5 @@
 Tasks
-
+```
 // Basic Component
 Create a component called <MyComponent> in the components folder and render a <h1>My First Component</h1>
 Use MyComponent in App.js
@@ -62,3 +62,4 @@ Render the input value in App.js as <p>{inputFromChild}</p> when the button in <
 To do this you must have state (isClicked) that is updated when the button is clicked (true / false). This setIsClicked must be sent as a prop where we listen to buttonclick.
 
 Use conditional around the <p></p> to only write out the message when the state is true.
+```
